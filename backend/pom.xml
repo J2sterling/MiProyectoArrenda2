@@ -123,6 +123,7 @@
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
+			<version>8.1.0</version> <!-- Versión más reciente estable -->
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
